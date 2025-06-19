@@ -53,18 +53,6 @@ Untuk menjalankan proyek ini secara lokal:
 
 ---
 
-## 🤝 Kontribusi
-
-Kami sangat terbuka untuk kontribusi! Jika Anda punya ide atau menemukan *bug*, silakan:
-
-1.  *Fork* repositori ini.
-2.  Buat cabang baru (`git checkout -b fitur/nama-fitur`).
-3.  Lakukan perubahan Anda.
-4.  *Commit* perubahan (`git commit -m 'Tambahkan fitur baru'`).
-5.  *Push* ke cabang Anda (`git push origin fitur/nama-fitur`).
-6.  Buka *Pull Request*.
-
----
 
 ## 📄 Lisensi
 
