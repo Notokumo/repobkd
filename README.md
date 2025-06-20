@@ -29,8 +29,7 @@ Untuk menjalankan proyek ini secara lokal:
 
 1.  **Clone repositori:**
     ```bash
-    git clone [https://github.com/Notokumo/repobkd.git](https://github.com/Notokumo/repobkd.git])
-    cd repobkd
+    git clone https://github.com/Notokumo/repobkd.git
     ```
 2.  **Konfigurasi Web Server:**
     Pastikan Anda memiliki server web seperti Apache atau Nginx yang telah terkonfigurasi untuk **PHP 7.4**. Arahkan *document root* server Anda ke folder proyek ini.
