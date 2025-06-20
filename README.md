@@ -50,6 +50,22 @@ Untuk menjalankan proyek ini secara lokal:
 
 ---
 
+## Panduan Login
+
+Setelah instalasi berhasil, Anda bisa login menggunakan kredensial berikut (berdasarkan data awal di `repobkd.sql`):
+
+### Untuk Administrator:
+* **URL:** `http://localhost/repobkd/admin` (sesuaikan dengan konfigurasi server web Anda)
+* **Username:** `admin`
+* **Password:** `adminrepobkd`
+
+### Untuk Dosen:
+* **URL:** `http://localhost/repobkd/dosen` (sesuaikan dengan konfigurasi server web Anda)
+* **Username:** Anda bisa menggunakan salah satu email dosen dari data dummy, contoh: `andi.wijaya@univ.ac.id`
+* **Password:** `dosenbkd`
+
+---
+
 ## Kontribusi
 
 Kami menyambut kontribusi! Jika Anda memiliki ide untuk fitur baru, perbaikan bug, atau peningkatan performa, silakan buka *issue* atau kirimkan *pull request*.
